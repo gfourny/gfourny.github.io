@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4189a7520897afa2b6e56c632988e7ac.js"
+  "/precache-manifest.7be681c191c780c9d0e3257f4834fe8b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gta"});
